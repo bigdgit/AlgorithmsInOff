@@ -1,0 +1,2 @@
+
+class XYZ extends ABC{}
